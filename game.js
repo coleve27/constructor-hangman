@@ -1,9 +1,8 @@
 //array of words
-var wordToGuess =
-{
+var wordToGuess = {
 
-wordBank: ["Elephant", "Crocodile", "Duck"]
+  wordBank: ["ELEPHANT", "CROCODILE", "DUCK"]
 
- };
+};
 
 exports.wordToGuess = wordToGuess;
